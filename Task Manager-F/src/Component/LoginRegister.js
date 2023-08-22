@@ -87,7 +87,7 @@ function LoginRegister() {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-sky-500 to-sky-600">
+    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-gray-500 to-gray-600">
       <div className="bg-white p-8 rounded shadow-md w-96">
         <div className="text-center mb-6">
           <h2 className="text-2xl text-red-600">

@@ -112,7 +112,7 @@ function TaskManager() {
   };
 
   return (
-    <div className="container mx-auto p-4 bg-gradient-to-r from-sky-200 via-sky-200 to-sky-200 min-h-screen">
+    <div className="container mx-auto p-4 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 min-h-screen">
       <div className="flex flex-row justify-between">
         <h1 className="text-2xl font-bold mb-4">Task Manager</h1>
         <button
